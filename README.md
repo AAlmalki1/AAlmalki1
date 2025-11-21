@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Welcome Banner">
-</p>
 
 <h1 align="center">Hi, I'm Abdulrahman Al-Malki 👋</h1>
 <h3 align="center">Statistics Student | Aspiring Data Scientist | AI Enthusiast</h3>
