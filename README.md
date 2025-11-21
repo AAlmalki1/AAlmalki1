@@ -7,7 +7,7 @@
 ## 📌 About Me
 I’m **Abdulrahman Turki Al-Malki**, a Statistics student at **King Abdulaziz University (KAU)** with a strong passion for **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
 
-I am currently building my foundation in data analysis, Python programming, and AI development, with the long-term goal of becoming an **AI Engineer** and contributing to impactful, tech-driven solutions.
+I am currently building my foundation in data Science, Python programming, and AI development, with the long-term goal of becoming an **AI Engineer** and contributing to impactful, tech-driven solutions.
 
 ---
 
