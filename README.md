@@ -35,17 +35,6 @@ I am currently building my foundation in data analysis, Python programming, and 
 
 ---
 
-## 📂 Featured Projects
-(You can replace with real links later)
-
-- **DAL – AI Dress Design Generator**  
-  AI-powered system that generates dress designs from body measurements.
-
-- **Data Analysis Practice Projects**  
-  Exploratory data analysis, visualizations, and ML model experiments.
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" /></a>
