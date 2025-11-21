@@ -22,7 +22,6 @@ I am currently building my foundation in data analysis, Python programming, and 
   - Data cleaning, preprocessing, and visualization  
   - Statistics and probability  
 - Working on personal AI and data projects  
-- Building my first major product: **DAL – AI-powered custom dress design**  
 
 ---
 
