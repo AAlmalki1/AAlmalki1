@@ -35,7 +35,6 @@ I am currently building my foundation in data Science, Python programming, and A
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" /></a>
   <a href="#"><img src="https://img.icons8.com/color/96/000000/github.png" width="60" /></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="60" /></a>
   <a href="mailto:"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" /></a>
 </p>
 
